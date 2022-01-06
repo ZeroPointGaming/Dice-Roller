@@ -1,0 +1,11 @@
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.vbprojResolveAssemblyReference.cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Form1.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Resources.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.vbproj.GenerateResource.Cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
